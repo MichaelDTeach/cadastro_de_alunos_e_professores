@@ -1,0 +1,1 @@
+INSERT INTO horario (ID, Descricao, IDProfessor) VALUES (1, "primeiro horario", 1);

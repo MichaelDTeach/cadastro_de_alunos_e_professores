@@ -1,0 +1,1 @@
+UPDATE horario SET Descricao = "segundo horario" WHERE ID=1;

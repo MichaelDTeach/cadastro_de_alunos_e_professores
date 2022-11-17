@@ -1,0 +1,1 @@
+INSERT INTO saladeaula (id, id turma, descricao) VALUES (1, 1, "inf");

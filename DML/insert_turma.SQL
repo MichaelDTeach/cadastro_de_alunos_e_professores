@@ -1,0 +1,1 @@
+INSERT INTO turma (id, IDMatricula) VALUES (1,1);
